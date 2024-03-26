@@ -20,6 +20,7 @@ Maya is a voice assistant designed to simplify your daily tasks and provide you 
 ### Getting Started
 To start using Maya, follow these steps:
 - Follow our [GitHub account](https://github.com/dineshmaddi25) to stay updated and to recieve the code.
+- Follow our [GitHub account](https://github.com/Leeladharreddyb) to stay updated and to recieve the code.
 - Fill out the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfyQRQI6tOrtKWwNmw7yH1CvG_i1nTStAFD1bDXnLuuVExI6A/viewform) to request access to the source code.
 - Once you've submitted the form, you'll receive access to the source code shortly.
 
