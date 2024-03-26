@@ -3,6 +3,11 @@
 ### Introduction
 Maya is a voice assistant designed to simplify your daily tasks and provide you with useful information using speech recognition technology. With Maya, you can inquire about the weather, listen to music, receive suggestions, take precautions, send messages to friends, and even get directions to your destination.
 
+
+### Demo of Maya
+
+   [Youtube](https://youtu.be/ydrSp9ipHCY)
+
 ### Features
 - **Speech Recognition**: Maya utilizes advanced speech recognition technology to understand your commands and queries.
 - **Weather API Integration**: Get real-time weather updates for any location.
